@@ -584,7 +584,7 @@ MonoBehaviour:
   _playerTransform: {fileID: 935932060}
   _plantPrefab: {fileID: 6167240855637660589, guid: febde31c64b8241ff9b993e28721d9fe, type: 3}
   _numSeeds: 5
-  _plantCountUI: {fileID: 0}
+  _plantCountUI: {fileID: 1657858111}
   spritePrefab: {fileID: 6167240855637660589, guid: febde31c64b8241ff9b993e28721d9fe, type: 3}
 --- !u!50 &935932062
 Rigidbody2D:

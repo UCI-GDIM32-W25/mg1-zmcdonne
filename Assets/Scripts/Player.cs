@@ -15,6 +15,8 @@ public class Player : MonoBehaviour
   {
     _rigidbody = GetComponent<Rigidbody2D>();
     _numSeedsLeft = _numSeeds;
+  _plantCountUI.UpdateSeeds(_numSeedsLeft, _numSeedsPlanted);
+
   }
 
     private void Update() 
@@ -24,6 +26,9 @@ public class Player : MonoBehaviour
     if(Input.GetKeyDown(KeyCode.Space) && _numSeedsLeft > 0)
      {
        PlantSeed();
+       _numSeedsLeft--;
+       _numSeedsPlanted++;
+      _plantCountUI.UpdateSeeds(_numSeedsLeft, _numSeedsPlanted);
     }
     }
 
