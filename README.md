@@ -2,11 +2,10 @@
 # HW1
 ## Devlog
 Zoya McDonnell, she/her
+For the MG1 i broke it down into steps which i comented directly  into the code and incremented on. 
 Write about how the plan you wrote in the MG1 break-down activity connects to the code you wrote. Cite specific class names and method names in the code and GameObjects in your Unity Scene.
-If you did not attend and perform the W1 in-class activity, review the lecture slides and write your own plan for how you believe MG1 should be built. 
-If your plan changed significantly after reviewing the Prof’s example finished plan or because of decisions you made while coding, note what changed and why.
 
+in terms of my plan changing i orginally thought to increment only in the ui methd  called UpdateSeeds, hoeever i just used the ui code called PlantCountUI for the text changed and in the player i called the method
 
 ## Open-Source Assets
-If you added any other outside assets, list them here!
 - [Sprout Lands sprite asset pack](https://cupnooble.itch.io/sprout-lands-asset-pack) - character and item sprites
