@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MjLLqDcN)
 # HW1
 ## Devlog
-Zoya McDonnell, she/her
+Zoya McDonnell, She/Her
 
 
 For the MG1, I broke it down into steps, which I commented directly into the code and then incremented on. 
